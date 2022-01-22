@@ -1,0 +1,12 @@
+$grey-600: #8D8D8D;
+$grey-100: #F4F3EE;
+$grey-200: #E5E5E5;
+$pink: #c32c72;
+// using scss maps
+$colors: (
+  "bg": $grey-200,
+  "whiteColor": $white,
+  "greyColor": $grey-600,
+  "lightGreyColor": $grey-100,
+  "pinkColor": $pink,
+);

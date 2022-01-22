@@ -1,0 +1,11 @@
+nav {
+    background: setColor("lightGreyColor") !important;
+
+  .active {
+    color: setColor("pinkColor") !important;
+  }
+  .nav-link:hover {
+    font-weight: bold;
+    color: setColor("pinkColor") !important;
+  }
+}

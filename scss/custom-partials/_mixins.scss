@@ -1,0 +1,9 @@
+@mixin cardStyle($setBgColor, $setBorderColor) {
+  background-color: setColor($setBgColor);
+  border: 2px solid setColor($setBorderColor);
+  border-radius: 2%;
+  margin: 10px 16px;
+  height: 200px;
+  box-shadow: 2px 2px 10px grey;
+}
+
